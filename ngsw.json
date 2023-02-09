@@ -1,0 +1,91 @@
+{
+  "configVersion": 1,
+  "timestamp": 1675915386093,
+  "index": "https://mycollectingbox.github.io/iasl-longtermcare-demo/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://mycollectingbox.github.io/iasl-longtermcare-demo/favicon.ico",
+        "https://mycollectingbox.github.io/iasl-longtermcare-demo/index.html",
+        "https://mycollectingbox.github.io/iasl-longtermcare-demo/main.d53d885123b713784258.js",
+        "https://mycollectingbox.github.io/iasl-longtermcare-demo/manifest.webmanifest",
+        "https://mycollectingbox.github.io/iasl-longtermcare-demo/polyfills.b43cea97e5ba1af91b4b.js",
+        "https://mycollectingbox.github.io/iasl-longtermcare-demo/runtime.16adcb393ec9b0aacad8.js",
+        "https://mycollectingbox.github.io/iasl-longtermcare-demo/styles.5e81387e0b2c5308eedd.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/fakeData/sample-response.json",
+        "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/icons/googlemic_clr_24px.svg",
+        "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/icons/icon-128x128.png",
+        "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/icons/icon-144x144.png",
+        "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/icons/icon-152x152.png",
+        "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/icons/icon-192x192.png",
+        "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/icons/icon-384x384.png",
+        "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/icons/icon-512x512.png",
+        "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/icons/icon-72x72.png",
+        "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/icons/icon-96x96.png",
+        "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/icons/mic-white.svg",
+        "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/profiles/bot_avatar.png",
+        "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/profiles/elders.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/fakeData/sample-response.json": "e9a66920826342ec1b8346b211dde58011a50434",
+    "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/icons/googlemic_clr_24px.svg": "a58c828c6439651a5d2c2ba8998ec3d47f7d1df3",
+    "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/icons/mic-white.svg": "1a682c86ad25bcda657be6f1bf63a7c489d59d7e",
+    "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/profiles/bot_avatar.png": "7f190a7c813173ba1f1e2a66c403c0dabf768997",
+    "https://mycollectingbox.github.io/iasl-longtermcare-demo/assets/profiles/elders.png": "1343fc31b8c4433e32ceb70faabaf4294b583212",
+    "https://mycollectingbox.github.io/iasl-longtermcare-demo/favicon.ico": "71220844f119d3e59abdf10b3056b42e77b727db",
+    "https://mycollectingbox.github.io/iasl-longtermcare-demo/index.html": "91b9bdb945395f649081cbfbb1584a4909be55a3",
+    "https://mycollectingbox.github.io/iasl-longtermcare-demo/main.d53d885123b713784258.js": "bb0cdf15cf6aef7c85278fca0bb81e7a9a4b4d12",
+    "https://mycollectingbox.github.io/iasl-longtermcare-demo/manifest.webmanifest": "f4dda7aa061a40669995816cc0f1d5625114f1a5",
+    "https://mycollectingbox.github.io/iasl-longtermcare-demo/polyfills.b43cea97e5ba1af91b4b.js": "77366dad5b685ffca740614ffa81be82994d18d3",
+    "https://mycollectingbox.github.io/iasl-longtermcare-demo/runtime.16adcb393ec9b0aacad8.js": "80440cd183477d104d05cb48b7dfcc8af419b866",
+    "https://mycollectingbox.github.io/iasl-longtermcare-demo/styles.5e81387e0b2c5308eedd.css": "6aa7c7dee51db1455834b3720ff94838216273d0"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
